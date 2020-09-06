@@ -1,0 +1,10 @@
+{
+  "homepage": "https://www.curseforge.com/minecraft/mc-mods/mcbmods",
+  "promos": {
+    "1.8.9-latest": "1.2.2",
+    "1.8.9-recommended": "1.2.2"
+  },
+  "1.8.9": {
+    "1.2.2": "Testing"
+  }
+}
