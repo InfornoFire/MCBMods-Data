@@ -5,6 +5,6 @@
     "1.8.9-recommended": "1.2.2"
   },
   "1.8.9": {
-    "1.2.2": "-Polishing code\n-Removed ban system\nNew version checker system"
+    "1.2.2": "-Polishing code\n-Removed ban system\n-New version checker system"
   }
 }
