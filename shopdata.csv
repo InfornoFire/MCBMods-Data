@@ -538,7 +538,6 @@ flansmod:flareGunAmmo:0,60.0,30.0,1
 flansmod:Type87:0,6200.0,3100.0,24
 flansmod:Flak88:0,4500.0,2250.0,15
 flansmod:GFS_F18E:0,13000.0,6500.0,63
-flansmod:GFS_F18E:0,11000.0,5500.0,43
 flansmod:GFS_Ka52:0,9000.0,4500.0,46
 flansmod:GFS_Ka60:0,5500.0,2750.0,14
 flansmod:GFS_TornadoGR4:0,9800.0,4900.0,51
