@@ -306,7 +306,7 @@ minecraft:daylight_detector:0,20.0,10.0,1
 minecraft:redstone_block:0,180.0,90.0,1
 minecraft:hopper:0,260.0,130.0,1
 minecraft:dropper:0,22.0,11.0,1
-minecraft:iron_trapdoor:0,200.0,100.0,1
+minecraft:iron_trapdoor:0,200.0,50.0,1
 minecraft:spruce_fence_gate:0,8.0,4.0,1
 minecraft:birch_fence_gate:0,8.0,4.0,1
 minecraft:jungle_fence_gate:0,8.0,4.0,1
@@ -560,6 +560,7 @@ flansmod:GFS_ASRAD:0,5200.0,2600.0,18
 flansmod:GFS_TOW:0,3000.0,1500.0,8
 flansmod:SprutSD:0,7800.0,3900.0,26
 flansmod:smokeScreen:0,150.0,75.0,5
+flansmod:Grad:0,3000.0,1500.0,18
 flansmod:aa12Ammo:0,150.0,75.0,1
 flansmod:acrAmmo:0,100.0,50.0,1
 flansmod:ak47Ammo:0,100.0,50.0,1
@@ -670,7 +671,7 @@ flansmod:acr:0,1200.0,600.0,21
 flansmod:ak47:0,600.0,200.0,6
 flansmod:ak74:0,550.0,150.0,3
 flansmod:aug:0,1400.0,700.0,26
-flansmod:mwBinoculars:0,40.0,20.0,1
+flansmod:mwBinoculars:0,1800.0,900.0,13
 flansmod:bizon:0,600.0,200.0,7
 flansmod:desertEagle:0,500.0,250.0,36
 flansmod:dragunov:0,1000.0,250.0,17
@@ -837,7 +838,7 @@ flansmod:HydraAmmo:0,1500.0,750.0,30
 flansmod:SmartAmmo:0,1750.0,875.0,35
 flansmod:ZuniAmmo:0,3500.0,1750.0,75
 flansmod:minigunExplosiveAmmo:0,2000.0,1000.0,70
-flansmod:flanMW8xScope:0,2000.0,1000.0,43
+flansmod:flanMW8xScope:0,900.0,450.0,43
 flansmod:compensator:0,2000.0,1000.0,23
 flansmod:vss:0,1400.0,650.0,24
 flansmod:vssAmmo:0,80.0,40.0,14
@@ -863,8 +864,14 @@ flansmod:GFS_Air30mmHE:0,2200.0,1100.0,29
 flansmod:GFS_Air20mm:0,2400.0,1200.0,36
 flansmod:GFS_Air25mm:0,2400.0,1200.0,32
 flansmod:GFS_Air30mm:0,2600.0,1300.0,42
-flansmod:3xScope:0,1000.0,500.0,20
-flansmod:survivorHelmet:0,-1.0,30.0,-1
+flansmod:3xScope:0,1000.0,500.0,19
+flansmod:122mm:0,350.0,175.0,10
+flansmod:aps:0,1400.0,700.0,19
+flansmod:apsAmmo:0,140.0,70.0,9
+flansmod:3xScope:0,1000.0,500.0,19
+flansmod:psoScope:0,750.0,375.0,16
+flansmod:ash12Ammo:0,600.0,300.0,54
+flansmod:survivorHelmet:0,-1.0,25.0,-1
 flansmod:survivorPants:0,-1.0,30.0,-1
 flansmod:survivorBoots:0,-1.0,30.0,-1
 flansmod:survivorBody:0,-1.0,50.0,-1
@@ -894,3 +901,5 @@ flansmod:barrett:0,-1.0,15000.0,-1
 flansmod:ww2MedKit:0,-1.0,25.0,-1
 flansmod:GFS_Su39:0,-1.0,6000.0,-1
 flansmod:GFS_Ka50:0,-1.0,6500.0,-1
+flansmod:ash12:0,-1.0,2000.0,-1
+flansmod:mk47:0,-1.0,800.0,-1
