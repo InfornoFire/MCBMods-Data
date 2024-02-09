@@ -1,2 +1,2 @@
-1.4.3
-https://www.curseforge.com/minecraft/mc-mods/mcbmods/download/4299327
+1.5.0
+https://modrinth.com/mod/mcbmods/version/1.5.0
